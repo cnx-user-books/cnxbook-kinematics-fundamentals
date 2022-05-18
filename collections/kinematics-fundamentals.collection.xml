@@ -1,0 +1,98 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10348</md:content-id>
+    <md:title>Kinematics fundamentals  </md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>5183e995-a1fb-47a0-b9ce-99fd487393d8</md:uuid>
+<md:slug>kinematics-fundamentals</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Motion</md:title>
+      <col:content>
+        <col:module document="m13580"/>
+        <col:module document="m13600"/>
+        <col:module document="m13278"/>
+        <col:module document="m13581"/>
+        <col:module document="m13593"/>
+        <col:module document="m13601"/>
+        <col:module document="m14519"/>
+        <col:module document="m14513"/>
+        <col:module document="m14521"/>
+        <col:module document="m13603"/>
+        <col:module document="m14522"/>
+        <col:module document="m13609"/>
+        <col:module document="m13582"/>
+        <col:module document="m13279"/>
+        <col:module document="m13348"/>
+        <col:module document="m13612"/>
+        <col:module document="m14531"/>
+        <col:module document="m14530"/>
+        <col:module document="m14528"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Acceleration</md:title>
+      <col:content>
+        <col:module document="m13769"/>
+        <col:module document="m13770"/>
+        <col:module document="m13835"/>
+        <col:module document="m13834"/>
+        <col:module document="m13781"/>
+        <col:module document="m14551"/>
+        <col:module document="m13815"/>
+        <col:module document="m14554"/>
+        <col:module document="m13833"/>
+        <col:module document="m14550"/>
+        <col:module document="m14547"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Relative motion</md:title>
+      <col:content>
+        <col:module document="m13618"/>
+        <col:module document="m14035"/>
+        <col:module document="m14030"/>
+        <col:module document="m14037"/>
+        <col:module document="m14561"/>
+        <col:module document="m14034"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Accelerated motion in two dimensions</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Projectile motion</md:title>
+          <col:content>
+            <col:module document="m13837"/>
+            <col:module document="m13858"/>
+            <col:module document="m13847"/>
+            <col:module document="m13864"/>
+            <col:module document="m13856"/>
+            <col:module document="m13866"/>
+            <col:module document="m14614"/>
+            <col:module document="m14615"/>
+            <col:module document="m14601"/>
+            <col:module document="m14613"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Circular motion</md:title>
+          <col:content>
+            <col:module document="m13871"/>
+            <col:module document="m14015"/>
+            <col:module document="m14014"/>
+            <col:module document="m14027"/>
+            <col:module document="m14555"/>
+            <col:module document="m14562"/>
+            <col:module document="m14020"/>
+            <col:module document="m14021"/>
+            <col:module document="m14022"/>
+            <col:module document="m14024"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
